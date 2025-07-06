@@ -4,16 +4,6 @@ A classic game of Rock, Paper, Scissors! This is a simple, console-based Python 
 
 ---
 
-## Features
-
-- **Two Game Modes:** Choose between classic three-choice "Normal" mode or the five-option "Big Bang" mode.
-- **Score Tracking:** The game keeps a running score of your wins versus the computer's wins.
-- **Play Again:** Option to play another round without restarting the program.
-- **Input Validation:** The game guides you to enter valid choices for moves and modes.
-- **Interactive Console Experience:** Clear prompts and feedback for an easy-to-play game.
-
----
-
 ## Game Rules
 
 The winner is determined based on the following rules:
